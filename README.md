@@ -35,7 +35,7 @@ Make sure you have the following tools installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/zpmughal/employee-management.git
+   git clone https://github.com/zahidprvz/employee-management.git
    ```
 
 2. Build the project:
